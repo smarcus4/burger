@@ -1,4 +1,4 @@
-w// require in express, and set up routing for it, and bring in
+// require in express, and set up routing for it, and bring in
 // the burger.js model file
 var express = require('express');
 var router = express.Router();
