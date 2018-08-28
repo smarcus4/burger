@@ -7,6 +7,4 @@ This application demonstrates a simple full stack application with a front end i
 
 The user may enter any burger name to add it to the menu. This also adds the new burger to the "Uneating Burgers" list. The user may then eat any burger by clicking on "Devour!", which moves it into the adjacent column and updates its status accordingly in the database.
 
-## Deployment
 
-The deployment of the burger eating application can be found [here](https://mighty-scrubland-75297.herokuapp.com/).
